@@ -1,4 +1,8 @@
 # 🌍 CED HalalTech — Écosystème Fintech Islamique Éthique
+![Security Policy](https://img.shields.io/badge/Security-Policy%20Active-brightgreen)
+![Code Scanning](https://img.shields.io/badge/Code%20Scanning-Active-brightgreen)
+![Dependabot](https://img.shields.io/badge/Dependabot-Active-brightgreen)
+![Hosted in Switzerland](https://img.shields.io/badge/Host-Switzerland%20%F0%9F%87%A8%F0%9F%87%AD-red)
 
 > **"L'innovation technologique n'a de sens que si elle sert l'humain et respecte son Créateur."**
 
