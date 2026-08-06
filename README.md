@@ -66,4 +66,4 @@ CED HalalTech déploie une suite complète de services financiers et technologiq
 ---
 
 © 2026 CED HalalTech. Tous droits réservés.  
-Projet hébergé en Suisse par **Infomaniak**.
+Projet hébergé en Suisse par **Infomaniak**.           
