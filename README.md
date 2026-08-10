@@ -1,69 +1,98 @@
-# 🌍 CED HalalTech — Écosystème Fintech Islamique Éthique
+# 🌍 CED HalalTech™ — Écosystème Fintech Islamique Souverain
 
-[![Security Policy](https://img.shields.io/badge/Security-Policy-green)](.github/SECURITY.md)
-[![License](https://img.shields.io/badge/License-Proprietary-blue)](LICENSE)
-[![Hosted in Switzerland](https://img.shields.io/badge/Hosted-Switzerland%20(Infomaniak)-red)](https://www.infomaniak.com)
-
-> *"L'innovation technologique n'a de sens que si elle sert l'humain et respecte son Créateur."*
-
-La première plateforme fintech halal complète et souveraine.
-Conçue à Genève, **CED HalalTech** réconcilie excellence technologique, conformité charia rigoureuse et standards de sécurité suisses.
-
-📍 **Genève, Suisse** | 🔒 **Conforme Charia, AAOIFI, FINMA** | ☁️ **Hébergé en Suisse (Infomaniak)**
+> **100% Halal | 100% Suisse | AAOIFI Compliant | LPD/RGPD**
+>
+> *"Les actes ne valent que par leurs intentions." (Sahih Al-Bukhari 1)*
+>
+> La première architecture technologique mondiale conciliant **conformité Charia rigoureuse**, **souveraineté numérique suisse** et **intelligence artificielle éthique**.
 
 ---
 
-## 🚀 Vision & Proposition de Valeur
-Ce dépôt est le cœur technique de **PrettyhowQc**, notre initiative pour une IA souveraine et éthique. Nous visons à réconcilier technologie de pointe et valeurs humaines fondamentales au service de la justice sociale.
+## 🕌 Vision & Fondements
 
-- **Souveraineté des données :** Hébergement 100% suisse (**Infomaniak**), garantissant une confidentialité totale et une indépendance vis-à-vis des géants du cloud américains (Conforme RGPD/LPD).
-- **Double conformité :** Respect strict des principes de la Charia (**AAOIFI**) et des régulations financières suisses (**FINMA**).
-- **Impact Réel :** Une fintech qui replace l'éthique au cœur des algorithmes financiers et éducatifs.
+CED HalalTech™ n'est pas seulement une fintech, c'est un écosystème complet fondé sur les **Maqasid ash-Shari'a** (objectifs supérieurs de la loi islamique) et la science des priorités (**Fiqh al-Awlawiyyat**).
 
----
-
-## 🛡️ Architecture & Souveraineté Technique
-Conçu selon les principes du **Juste Milieu** (*Al-Wasatiyyah*), notre stack technique garantit sécurité, transparence et performance institutionnelle.
-
-| Pilier | Détails Techniques |
-| :--- | :--- |
-| **Cloud Souverain** | Infrastructure privée **Infomaniak** (Suisse). Données hébergées à Genève. |
-| **Sécurité** | Chiffrement de bout en bout (AES-256/TLS 1.3), Durcissement des serveurs, Audit externe prévu. |
-| **DevOps** | Pipelines CI/CD automatisés, Infrastructure as Code (Terraform). |
-| **IA Éthique** | Algorithmes audités pour éviter les biais (PrettyhowQc AI). Code ouvert et vérifiable. |
-
-🔗 *Pour détails complets sur nos protocoles de sécurité et de réponse aux incidents, consultez notre [Politique de Sécurité](.github/SECURITY.md).*
+Conçu à Genève et hébergé exclusivement sur l'infrastructure souveraine d'**Infomaniak**, notre mission est de protéger les cinq essentiels de la foi par la technologie :
+1.  **Hifdh al-Mâl** (Protection des biens) via *CED Bank™*
+2.  **Hifdh an-Nafs** (Protection des personnes) via *Al-Aman Takaful™*
+3.  **Hifdh al-'Aql** (Protection de l'intellect) via *CED Academy™*
+4.  **Hifdh as-Sirriyya** (Protection des données) via *Cloud Halal™*
+5.  **Hidâya & Awlawiyyât** (Guidance & Priorités) via *EuriaHub IA™*
 
 ---
 
-## 💼 Périmètre de l'Écosystème
-CED HalalTech déploie une suite complète de services financiers et technologiques :
+## 🏗️ Architecture Modulaire
 
-- 🏦 **Banque Islamique Digitale :** Comptes, épargne et investissement sans riba.
-- 🤝 **Takaful (Assurance) :** Mutuelle solidaire conforme à la Charia.
-- 🔌 **API Banking :** Solutions d'intégration pour commerçants et développeurs.
-- 🎓 **EdTech & IA :** Modules de formation et d'accompagnement éthique.
+L'architecture suit un ordre prophétique : l'obligatoire avant le recommandé, la protection avant la construction.
+
+### 🏛️ Modules Essentiels (Cœur de système)
+
+| Module | Objectif Charia | Fonctionnalités Clés |
+| :--- | :--- | :--- |
+| **CED Bank™** | `Hifdh al-Mâl` | Comptes halal, virements sans ribâ, audit AAOIFI, anti-gharar. |
+| **Al-Aman Takaful™** | `Hifdh an-Nafs` | Assurance solidaire (Tabarru'), gestion de sinistres transparente. |
+| **CED Academy™** | `Hifdh al-'Aql` | Formation FR/AR/EN, filtrage contenu, IA pédagogique halal. |
+| **Cloud Halal™** | `Hifdh as-Sirriyya` | Stockage chiffré (AES-256), zéro tracking, filtrage automatique haram. |
+| **EuriaHub IA™** | `Supervision` | Cerveau du système : IA souveraine (Infomaniak), filtrage sharia-first. |
+
+### 📊 Modules de Gouvernance & Communication
+
+*   **CEO Dashboard™** : Cockpit de supervision (Scores Sharia, Sécurité, Souveraineté).
+*   **Portfolio HalalTech™** : Présentation officielle de l'écosystème.
+*   **PrettyhowQ™ Web TV** : Plateforme média éducative sans contenu illicite.
 
 ---
 
-## 📊 État d'Avancement (Roadmap)
-- ✅ Conception de l'architecture souveraine (Terminé)
-- ✅ Déploiement des premiers modules IA (En cours)
-- 🔄 Audit de sécurité externe (Planifié Q3 2026)
-- 🎯 Présentation aux investisseurs Série A (Actuel)
+## 🇨🇭 Souveraineté Numérique & Sécurité Suisse
+
+La sécurité n'est pas une option, c'est une obligation religieuse (*Amânah*).
+
+*   **Hébergement 100% Suisse** : Datacenters Infomaniak (Genève, Tier III/IV). Aucune donnée ne quitte le territoire suisse.
+*   **Conformité Légale** : Respect strict de la **LPD** (Loi fédérale sur la protection des données) et du **RGPD**.
+*   **Sécurité Technique** :
+    *   Chiffrement de bout en bout (AES-256).
+    *   Authentification Multi-Facteurs (MFA) obligatoire.
+    *   Zéro cookie publicitaire, zéro tracking (Google/Facebook/TikTok bannis).
+    *   Audit Trail complet : chaque action est datée, signée et protégée.
+*   **Indépendance Technologique** : Priorité à l'IA suisse (Mistral/Infomaniak), avec fallback sécurisé uniquement si nécessaire.
+
+---
+
+## ⚖️ Conformité Religieuse & Éthique
+
+Notre code éthique est aussi rigoureux que notre code informatique.
+
+*   **Sources** : Coran, Sunna authentique, voie des Salafs, normes AAOIFI.
+*   **Interdits Strictement Filtrés** : Ribâ (intérêt), Gharar (incertitude illicite), Maysir (spéculation/jeu), contenu haram (images/musique interdites).
+*   **Transparence** : Aucune donnée vendue, aucun algorithme opaque.
+*   **Gouvernance** : Validation religieuse et technique pour chaque déploiement.
+
+---
+
+## 🗺️ Roadmap 2025-2075
+
+*   **2025** : Lancement officiel & Architecture Souveraine.
+*   **2026** : Certification AAOIFI & Expansion Golfe.
+*   **2030** : 10 millions d'utilisateurs musulmans.
+*   **2040** : Devenir la banque islamique digitale #1 mondiale.
+*   **2075** : Héritage technologique pérenne pour la Oumma.
 
 ---
 
 ## 👥 Équipe & Contact
 
-**Fondatrice :** Yamina Yakoubi  
-*Architecte de l'écosystème CED HalalTech™ | IA Éthique & Souveraineté Numérique*
+**Fondatrice & Architecte** : Yamina Yakoubi  
+*Expertise : IA Éthique, Finance Islamique, Souveraineté Numérique*
 
-- 📧 **Contact Pro :** [direction@ced-halaltech.ch](mailto:direction@ced-halaltech.ch)
-- 🌐 **Site Web :** [https://ced-halaltech.ch](https://ced-halaltech.ch)
-- 🔗 **Profil Fondateur :** [https://swissyakoubidev.ch](https://swissyakoubidev.ch)
+*   📧 **Direction** : [direction@ced-halaltech.ch](mailto:direction@ced-halaltech.ch)
+*   🌐 **Site Web** : [https://ced-halaltech.ch](https://ced-halaltech.ch)
+*   💼 **Portfolio** : [https://swissyakoubidev.ch](https://swissyakoubidev.ch)
+*   📍 **Siège** : Genève, Suisse (Hébergé par Infomaniak)
 
 ---
 
-© 2026 CED HalalTech. Tous droits réservés.  
-Projet hébergé en Suisse par **Infomaniak**.           
+> *"Ô vous qui croyez! Prenez vos précautions." (Sourate 4:71)*
+> *"Allah vous ordonne de rendre les dépôts." (Sourate 4:58)*
+
+© 2026 CED HalalTech™. Tous droits réservés.  
+*Développé avec sincérité (Ikhlas) pour la satisfaction d'Allah.*
