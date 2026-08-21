@@ -73,16 +73,16 @@ Notre code éthique est aussi rigoureux que notre code informatique.
 L'accès et l'utilisation de ce code source sont strictement réglementés pour garantir la souveraineté, la sécurité et la conformité éthique de l'écosystème.
 
 - **📄 Licence Propriétaire** : Ce projet est protégé par une licence propriétaire stricte. Toute reproduction, modification ou utilisation commerciale nécessite une autorisation écrite.
-  👉 [Voir le fichier LICENCE](LICENCE)
+  👉 [Voir le fichier LICENSE](LICENSE)
   
 - **🛡️ Politique de Sécurité** : Protocole de signalement des failles (Bug Bounty éthique), chiffrement et réponse aux incidents.
   👉 [Voir le fichier SECURITY.md](SECURITY.md)
 
 - **🤝 Politique de Contribution** : Cadre éthique et technique pour les contributeurs externes (NDA, validation Charia, cession de droits).
-  👉 [Consulter la politique (Docs/CONTRIBUTING.md)](Docs/CONTRIBUTING.md)
+  👉 [Consulter la politique (docs/CONTRIBUTING.md)](docs/CONTRIBUTING.md)
 
 - **📝 Demande d'Autorisation** : Formulaire obligatoire pour tout audit, intégration API ou partenariat.
-  👉 [Télécharger le formulaire (Docs/AUTHORIZATION_FORM.md)](Docs/AUTHORIZATION_FORM.md)
+  👉 [Télécharger le formulaire (docs/AUTHORIZATION_FORM.md)](docs/AUTHORIZATION_FORM.md)
 
 > **Note Importante** : Toute tentative d'accès non autorisé, d'exploitation de faille sans signalement préalable, ou d'utilisation en violation des principes Charia (Ribâ, Gharar, Maysir) entraînera des poursuites légales immédiates sous juridiction suisse.
 ## 🗺️ Roadmap 2025-2075
