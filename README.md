@@ -76,7 +76,7 @@ L'accès et l'utilisation de ce code source sont strictement réglementés pour 
   👉 [Voir le fichier LICENSE](LICENSE)
   
 - **🛡️ Politique de Sécurité** : Protocole de signalement des failles (Bug Bounty éthique), chiffrement et réponse aux incidents.
-  👉 [Voir le fichier SECURITY.md](SECURITY.md)
+  👉 [Voir le fichier SECURITY.md](.github/SECURITY.md)
 
 - **🤝 Politique de Contribution** : Cadre éthique et technique pour les contributeurs externes (NDA, validation Charia, cession de droits).
   👉 [Consulter la politique (docs/CONTRIBUTING.md)](docs/CONTRIBUTING.md)
