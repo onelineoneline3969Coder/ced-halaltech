@@ -1,2 +1,71 @@
-Copyright (c) 2026 CED HalalTech. All rights reserved.
-Ce projet est propriétaire. Toute reproduction ou utilisation sans autorisation écrite est interdite.
+Copyright (c) 2026 CED HalalTech™. Tous droits réservés.
+Propriété exclusive de Yamina Yakoubi / CED HalalTech™.
+
+===============================================================================
+                    LICENCE PROPRIÉTAIRE ET AVIS DE CONFORMITÉ
+===============================================================================
+
+1. NATURE DE LA LICENCE
+-------------------------------------------------------------------------------
+Ce logiciel, y compris son code source, sa documentation, ses architectures et 
+ses algorithmes (ci-après "le Logiciel"), est la propriété intellectuelle 
+exclusive de CED HalalTech™. Il est protégé par les lois suisses sur le droit 
+d'auteur et les traités internationaux.
+
+Ce Logiciel est fourni sous une licence PROPRIÉTAIRE RESTRICTIVE.
+Aucun droit de copie, de modification, de redistribution, de vente ou de 
+sous-licence n'est accordé sans une autorisation écrite explicite de CED HalalTech™.
+
+2. AUTORISATION D'UTILISATION ET D'AUDIT
+-------------------------------------------------------------------------------
+Toute entité souhaitant :
+- Auditer le code source (pour conformité Charia, FINMA ou sécurité).
+- Intégrer des modules via API.
+- Utiliser le code à des fins académiques ou de recherche.
+- Envisager un partenariat stratégique.
+
+DOIT préalablement soumettre une "Demande d'Autorisation d'Utilisation" officielle.
+📄 Formulaire de référence : Voir le document "AUTHORIZATION_FORM.md" dans le dossier docs/
+ou contacter direction@ced-halaltech.ch.
+
+L'accès au code source est strictement limité aux personnes ayant signé cet accord 
+et les clauses de confidentialité (NDA) associées.
+
+3. ENGAGEMENTS ÉTHIQUES ET CHARIA (CONDITION SUSPENSIVE)
+-------------------------------------------------------------------------------
+Toute utilisation autorisée est conditionnée par le respect strict des principes 
+de la finance islamique et de l'éthique CED HalalTech™ :
+- Interdiction absolue d'utiliser le Logiciel pour des activités impliquant 
+  le Ribâ (intérêt), le Gharar (incertitude illicite), le Maysir (jeu/spéculation), 
+  ou tout contenu illicite (Haram).
+- Respect de la souveraineté des données : Aucune donnée traitée par ce Logiciel 
+  ne doit être transférée hors de Suisse ou vers des juridictions non conformes 
+  au RGPD/LPD sans accord écrit.
+
+Toute violation de ces principes éthiques entraîne la résiliation immédiate de 
+toute autorisation d'utilisation et des poursuites légales.
+
+4. LIMITATION DE RESPONSABILITÉ
+-------------------------------------------------------------------------------
+Le Logiciel est fourni "tel quel", sans garantie d'aucune sorte, expresse ou 
+implicite. CED HalalTech™ ne saurait être tenu responsable des dommages directs 
+ou indirects résultant de l'utilisation ou de l'incapacité d'utiliser le Logiciel, 
+même si CED HalalTech™ a été informé de la possibilité de tels dommages.
+
+5. SIGNALEMENT DES FAILLES
+-------------------------------------------------------------------------------
+Conformément à notre politique de sécurité (SECURITY.md), toute découverte de 
+faille doit être signalée de manière responsable à security@ced-halaltech.ch.
+L'exploitation ou la divulgation publique non autorisée d'une faille est strictement 
+interdite et passible de poursuites.
+
+6. LOI APPLICABLE ET JURIDICTION
+-------------------------------------------------------------------------------
+La présente licence est régie par le droit suisse. Tout litige relatif à son 
+interprétation ou son exécution sera soumis à la compétence exclusive des 
+tribunaux de Genève, Suisse.
+
+===============================================================================
+Contact pour les demandes de licence : direction@ced-halaltech.ch
+Siège social : Genève, Suisse (Hébergé sur l'infrastructure souveraine Infomaniak)
+===============================================================================
