@@ -26,32 +26,32 @@ Conçu à Genève et hébergé exclusivement sur l'infrastructure souveraine d'*
 
 ## 🏗️ Architecture Stratégique (GitHub Pilot)
 
-Notre développement est piloté en temps réel via 5 issues stratégiques interconnectées, garantissant transparence et alignement avec nos valeurs.
+Notre développement est piloté en temps réel via **4 issues stratégiques** interconnectées, garantissant transparence et alignement avec nos valeurs.
 
-### 1. 🌐 [GLOBAL ROADMAP] Intégration Complète (Issue #1 & #2)
-La vision unifiée fusionnant **PrettyhowQ™** et **CED HalalTech™**.
-*   **Objectif :** Créer un écosystème conforme (technique + éthique + financier).
-*   **Normes :** ISO 27001, 9001, 21001, 26000, 14001, 22301, 31000, 27701.
-*   🔗 *Voir la feuille de route 2026-2075 : [Issue #2](./issues/2)*
-
-### 2. ☁️ [CLOUD] Hébergement Souverain (Issue #3) ✅
+### 1. ☁️ [CLOUD] Hébergement Souverain (Issue #1) ✅
 Le socle technique : 100% des données hébergées en Suisse (Genève), hors Cloud Act.
 *   **Infrastructure :** Infomaniak kCloud (Kubernetes), kDrive, Database Service.
-*   **Sécurité :** Chiffrement AES-256, BYOK (Bring Your Own Key), Audit Trail immuable.
+*   **Sécurité :** Chiffrement AES-256, BYOK, Audit Trail immuable.
 *   **Statut :** **Migration achevée & Opérationnelle**.
-*   🔗 *Détails techniques : [Issue #3](./issues/3)*
+*   🔗 *Détails techniques : [Voir l'Issue #1](./issues/1)*
 
-### 3. 🤖 [IA] Éthique & Super IARP Pro (Issue #4)
+### 2. 🤖 [IA] Éthique & Super IARP Pro (Issue #2)
 Le cerveau du système : une IA souveraine avec filtrage "Charia-First".
 *   **Fonctionnalités :** Basculement intelligent multi-IA, Filtre Halal proactif, Vocaux FR/EN/AR.
-*   **Éthique :** Zéro donnée vers l'étranger, conformité AAOIFI, transparence algorithmique.
-*   🔗 *Spécifications : [Issue #4](./issues/4)*
+*   **Éthique :** Zéro donnée vers l'étranger, conformité AAOIFI.
+*   🔗 *Spécifications : [Voir l'Issue #2](./issues/2)*
 
-### 4. 🚀 [FUNDING] Roadmap Série A (Issue #5)
+### 3. 🗺️ [GLOBAL ROADMAP] Vision 2026-2075 (Issue #3)
+La boussole stratégique : de la souveraineté technique à l'héritage mondial.
+*   **Phases :** Suisse (Fondations) ➔ Europe (Expansion) ➔ Golfe (Leadership).
+*   **Vision :** 50 ans de feuille de route alignée sur les Maqasid ash-Shari'a.
+*   🔗 *Feuille de route : [Voir l'Issue #3](./issues/3)*
+
+### 4. 🚀 [FUNDING] Roadmap Série A (Issue #4)
 Le plan de déploiement pour lever **50M USD** et industrialiser les **319 fonctionnalités**.
-*   **Phases :** Suisse (Core) ➔ Europe (Avancé) ➔ Golfe (Premium).
-*   **Applications :** CED Bank, Takaful, Academy, Marketplace, Logistique, etc.
-*   🔗 *Dossier investisseurs : [Issue #5](./issues/5)*
+*   **Objectif :** Financer la Phase 1 (Suisse) et préparer l'expansion.
+*   **Applications :** CED Bank, Takaful, Academy, Marketplace, etc.
+*   🔗 *Dossier investisseurs : [Voir l'Issue #4](./issues/4)*
 
 ---
 
@@ -59,10 +59,10 @@ Le plan de déploiement pour lever **50M USD** et industrialiser les **319 fonct
 
 La sécurité n'est pas une option, c'est une obligation religieuse (*Amânah*).
 
-*   **Hébergement 100% Suisse :** Datacenters Infomaniak (Genève, Tier III/IV). Aucune donnée ne quitte le territoire suisse.
+*   **Hébergement 100% Suisse :** Datacenters Infomaniak (Genève, Tier III/IV).
 *   **Conformité Légale :** Respect strict de la **nLPD** (Suisse) et du **RGPD** (UE).
-*   **Écologie :** Hébergement alimenté par des énergies renouvelables locales (chaleur fatale réutilisée).
-*   **Indépendance :** Priorité à l'IA suisse/européenne (Mistral, Infomaniak), avec fallback sécurisé uniquement si nécessaire.
+*   **Écologie :** Hébergement alimenté par des énergies renouvelables locales.
+*   **Indépendance :** Priorité à l'IA suisse/européenne, avec fallback sécurisé.
 
 ---
 
