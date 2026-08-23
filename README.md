@@ -24,9 +24,20 @@ Conçu à Genève et hébergé exclusivement sur l'infrastructure souveraine d'*
 
 ---
 
-## 🏗️ Architecture Stratégique (GitHub Pilot)
+## 🏗️ Architecture Stratégique & Centre de Commandement
 
-Notre développement est piloté en temps réel via **4 issues stratégiques** interconnectées, garantissant transparence et alignement avec nos valeurs.
+Notre développement est piloté en temps réel. Pour une vue détaillée de l'avancement, des preuves d'audit et de la gouvernance, veuillez consulter notre **Dépôt Stratégique Officiel** :
+
+👉 **[Accéder au Centre de Commandement : ced-strategic-roadmap](https://github.com/Club-Empreinte-Digitale-CEDHalalTech/ced-strategic-roadmap)**
+
+Ce dépôt centralise les 5 piliers stratégiques :
+1.  🌍 **Vision Institutionnelle** (Architecture des 4 pôles)
+2.  🗺️ **Feuille de Route Mondiale** (Suisse ➔ Golfe ➔ International)
+3.  ☁️ **Cloud Souverain** (Infra 100% Suisse, ISO 27001, PRA)
+4.  🤖 **IA Éthique** (Super IARP Pro, 27k règles de Fiqh)
+5.  💰 **Levée de Fonds Série A** (Stratégie 50M USD & Gouvernance)
+
+*La vitrine publique `ced-halaltech` présente la vision globale, tandis que `ced-strategic-roadmap` contient la documentation technique approfondie pour les investisseurs.*
 
 ### 1. ☁️ [CLOUD] Hébergement Souverain (Issue #1) ✅
 Le socle technique : 100% des données hébergées en Suisse (Genève), hors Cloud Act.
