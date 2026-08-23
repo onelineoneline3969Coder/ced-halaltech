@@ -39,30 +39,25 @@ Ce dépôt centralise les 5 piliers stratégiques :
 
 *La vitrine publique `ced-halaltech` présente la vision globale, tandis que `ced-strategic-roadmap` contient la documentation technique approfondie pour les investisseurs.*
 
-### 1. ☁️ [CLOUD] Hébergement Souverain (Issue #1) ✅
-Le socle technique : 100% des données hébergées en Suisse (Genève), hors Cloud Act.
-*   **Infrastructure :** Infomaniak kCloud (Kubernetes), kDrive, Database Service.
-*   **Sécurité :** Chiffrement AES-256, BYOK, Audit Trail immuable.
-*   **Statut :** **Migration achevée & Opérationnelle**.
-*   🔗 *Détails techniques : [Voir l'Issue #1](./issues/1)*
+---
 
-### 2. 🤖 [IA] Éthique & Super IARP Pro (Issue #2)
-Le cerveau du système : une IA souveraine avec filtrage "Charia-First".
-*   **Fonctionnalités :** Basculement intelligent multi-IA, Filtre Halal proactif, Vocaux FR/EN/AR.
-*   **Éthique :** Zéro donnée vers l'étranger, conformité AAOIFI.
-*   🔗 *Spécifications : [Voir l'Issue #2](./issues/2)*
+### 📍 Suivi Opérationnel (Liens Directs)
 
-### 3. 🗺️ [GLOBAL ROADMAP] Vision 2026-2075 (Issue #3)
-La boussole stratégique : de la souveraineté technique à l'héritage mondial.
-*   **Phases :** Suisse (Fondations) ➔ Europe (Expansion) ➔ Golfe (Leadership).
-*   **Vision :** 50 ans de feuille de route alignée sur les Maqasid ash-Shari'a.
-*   🔗 *Feuille de route : [Voir l'Issue #3](./issues/3)*
+1.  ☁️ **[CLOUD] Hébergement Souverain (Issue #1) ✅**
+    *   Le socle technique : 100% des données hébergées en Suisse (Genève).
+    *   🔗 **Lien direct :** [Voir l'Issue #1 ici](https://github.com/onelineoneline3969Coder/ced-halaltech/issues/1)
 
-### 4. 🚀 [FUNDING] Roadmap Série A (Issue #4)
-Le plan de déploiement pour lever **50M USD** et industrialiser les **319 fonctionnalités**.
-*   **Objectif :** Financer la Phase 1 (Suisse) et préparer l'expansion.
-*   **Applications :** CED Bank, Takaful, Academy, Marketplace, etc.
-*   🔗 *Dossier investisseurs : [Voir l'Issue #4](./issues/4)*
+2.  🤖 **[IA] Éthique & Super IARP Pro (Issue #2)**
+    *   Le cerveau du système : IA souveraine avec filtrage "Charia-First".
+    *   🔗 **Lien direct :** [Voir l'Issue #2 ici](https://github.com/onelineoneline3969Coder/ced-halaltech/issues/2)
+
+3.  🗺️ **[GLOBAL ROADMAP] Vision 2026-2075 (Issue #3)**
+    *   La boussole stratégique : 50 ans de feuille de route.
+    *   🔗 **Lien direct :** [Voir l'Issue #3 ici](https://github.com/onelineoneline3969Coder/ced-halaltech/issues/3)
+
+4.  🚀 **[FUNDING] Roadmap Série A (Issue #4)**
+    *   Le plan de déploiement pour lever 50M USD.
+    *   🔗 **Lien direct :** [Voir l'Issue #4 ici](https://github.com/onelineoneline3969Coder/ced-halaltech/issues/4)
 
 ---
 
