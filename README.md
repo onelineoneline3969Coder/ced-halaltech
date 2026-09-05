@@ -3,12 +3,17 @@
 > **100% Halal | 100% Suisse | AAOIFI Compliant | LPD/RGPD**
 >
 > *"Les actes ne valent que par leurs intentions." (Sahih Al-Bukhari 1)*
+![Compliance](https://img.shields.io/badge/Compliance-AAOIFI%20%7C%20LPD%20%7C%20RGPD-green)
+![Ethics](https://img.shields.io/badge/Ethics-Manifeste%20Validé-orange)
+![Hosting](https://img.shields.io/badge/Hosting-Infomaniak%20(CH)%20🇨🇭-red)
+![Status](https://img.shields.io/badge/Status-Phase%201%20(Suisse)-blue)
 
 La première architecture technologique mondiale conciliant **conformité Charia rigoureuse**, **souveraineté numérique suisse** et **intelligence artificielle éthique**.
 
 ---
 
 ## 🕌 Vision & Fondements
+📜 Engagement Éthique : Notre code est régi par un Manifeste Éthique Strict qui interdit le Riba, le Gharar et toute fuite de données hors de Suisse. 👉 Lire le Manifeste Complet : [Lien vers le fichier MANIFESTE_ETHIQUE.md dans ced-core ou copiez-le ici] (Note : Si le fichier est dans ced-core, mettez le lien GitHub vers ce fichier. S'il n'est pas accessible publiquement, copiez-collez son contenu dans un fichier ETHICS.md dans ce dépôt ced-halaltech).
 
 CED HalalTech™ n'est pas seulement une fintech, c'est un écosystème complet fondé sur les *Maqasid ash-Shari'a* (objectifs supérieurs de la loi islamique) et la science des priorités (*Fiqh al-Awlawiyyat*).
 
