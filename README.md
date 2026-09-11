@@ -50,6 +50,44 @@ La vitrine publique `ced-halaltech` présente la vision globale, tandis que `ced
 
 ---
 
+## 🗺️ Navigation Rapide dans l'Écosystème
+
+Accédez directement aux dépôts clés de l'infrastructure **CED HalalTech™** selon votre besoin :
+
+| Domaine | Dépôt Principal | Organisation | Statut | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| 🎓 **Formation** | [ced-academy-js-fundamentals](https://github.com/PrettyhowQ/ced-academy-js-fundamentals) | PrettyhowQ | 🟢 **Actif** | Module JS Éthique & Souverain (Cours de base). |
+| 🔬 **R&D / Lab** | [ced-lab](https://github.com/SwissYakoubiDev/ced-lab) | SwissYakoubiDev | 🟡 **Recherche** | IA Super IARP, Blockchain Zakat, Green Code Engine. |
+| 🛠️ **Prototypes** | [Formation-Dev-Club-Empreinte-Digitale](https://github.com/PrettyhowQ/Formation-Dev-Club-Empreinte-Digitale) | PrettyhowQ | 🟠 **Beta** | Mirror Replit (Full Stack) & Environnements de test. |
+| 🗄️ **Archives** | [Documents-Projets-CEDPro-Learn-Pro](https://github.com/PrettyhowQ/Documents-Projets-CEDPro-Learn-Pro) | PrettyhowQ | 🔒 **Privé** | Spécifications historiques, maquettes & documentation. |
+| 🏦 **Core Banking** | [ced-core](https://github.com/SwissYakoubiDev/ced-core) | SwissYakoubiDev | 🟢 **Prod** | Infrastructure Bancaire Halale (Noyau v2.4.1-AUDITED). |
+
+> 💡 **Note Architecturale** : Le cœur technique bancaire (`ced-core`) est hébergé sur l'organisation **SwissYakoubiDev** pour assurer une séparation claire des responsabilités entre la R&D publique et la production financière.
+
+### 📍 Détails des Dépôts Clés
+
+#### 🎓 **CED Academy** (Formation)
+*   **Lien** : [ced-academy-js-fundamentals](https://github.com/PrettyhowQ/ced-academy-js-fundamentals)
+*   **Objectif** : Enseigner le JavaScript avec une intention éthique (*Niyyah*), sans dépendance aveugle à l'IA.
+*   **Contenu** : Cours bilingue (FR/EN), exercices pratiques, approche "Voix du Cœur".
+*   **Statut** : Module actif pour les étudiants inscrits.
+
+#### 🔬 **CED HalalTech Lab** (R&D)
+*   **Lien** : [ced-lab](https://github.com/SwissYakoubiDev/ced-lab)
+*   **Objectif** : Expérimentation de technologies de rupture (IA Éthique, Blockchain Zakat, Green Coding).
+*   **Projets en cours** :
+    *   🤖 **Super IARP Pro** : Assistant IA conforme Charia (75% complété).
+    *   ⛓️ **Blockchain Zakat** : Smart contracts pour la distribution transparente (90% testé).
+    *   🌿 **Green Coding Engine** : Algorithmes d'optimisation carbone.
+
+#### 🗄️ **Archives Documentaires**
+*   **Lien** : [Documents-Projets-CEDPro-Learn-Pro](https://github.com/PrettyhowQ/Documents-Projets-CEDPro-Learn-Pro)
+*   **Accès** : Privé (Sur demande).
+*   **Contenu** : Spécifications fonctionnelles, maquettes HTML/CSS, documents juridiques, exports de projets.
+*   **Usage** : Traçabilité historique et sauvegarde de la propriété intellectuelle.
+
+---
+
 ## 📍 Suivi Opérationnel (Liens Directs)
 
 ### ☁️ [CLOUD] Hébergement Souverain (Issue #1) ✅
