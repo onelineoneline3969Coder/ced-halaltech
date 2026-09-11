@@ -66,4 +66,50 @@ La boussole stratégique : 50 ans de feuille de route.
 
 ### 🚀 [FUNDING] Roadmap Série A (Issue #4)
 Le plan de déploiement pour lever 50M USD.
-🔗 **Voir l'Issue #4** : [Levée de Fonds Série A](https://github.com/onelineoneline3
+🔗 **Voir l'Issue #4** : [Levée de Fonds Série A](https://github.com/onelineoneline3969Coder/ced-halaltech/issues/4)
+
+---
+
+## 🇨🇭 Souveraineté Numérique & Sécurité Suisse
+
+La sécurité n'est pas une option, c'est une obligation religieuse (**Amânah**).
+
+*   **Hébergement 100% Suisse** : Datacenters Infomaniak (Genève, Tier III/IV).
+*   **Conformité Légale** : Respect strict de la nLPD (Suisse) et du RGPD (UE).
+*   **Écologie** : Hébergement alimenté par des énergies renouvelables locales.
+*   **Indépendance** : Priorité à l'IA suisse/européenne, avec fallback sécurisé.
+
+### 🗺️ Roadmap 2025-2075
+*   **2025-2026** : Lancement officiel & Architecture Souveraine (✅ Cloud Migré).
+*   **2026-2027** : Levée Série A (50M USD) & Certification AAOIFI.
+*   **2030** : 10 millions d'utilisateurs musulmans (Expansion UE).
+*   **2040** : Devenir la banque islamique digitale #1 mondiale (Expansion Golfe).
+*   **2075** : Héritage technologique pérenne pour la Oumma.
+
+---
+
+## 👥 Équipe & Contact
+
+**Fondatrice & Architecte** : [Yamina Yakoubi](https://github.com/PrettyhowQ)
+*Expertise : IA Éthique, Finance Islamique, Souveraineté Numérique*
+
+*   📧 **Direction** : [direction@ced-halaltech.ch](mailto:direction@ced-halaltech.ch)
+*   📧 **Sécurité** : [security@ced-halaltech.ch](mailto:security@ced-halaltech.ch)
+*   🌐 **Site Web** : [ced-halaltech.ch](https://ced-halaltech.ch)
+*   💼 **Portfolio** : [swissyakoubidev.ch](https://swissyakoubidev.ch)
+*   📍 **Siège** : Genève, Suisse (Hébergé par Infomaniak)
+
+---
+
+> *"Ô vous qui croyez! Prenez vos précautions." (Sourate 4:71)*
+> *"Allah vous ordonne de rendre les dépôts à leurs ayants droit." (Sourate 4:58)*
+
+© 2026 CED HalalTech™. Tous droits réservés. Développé avec sincérité (Ikhlas) pour la satisfaction d'Allah.
+
+---
+
+### 📂 Politique de Contribution
+Pour toute demande de contribution, veuillez consulter notre [Politique de Contribution](https://github.com/onelineoneline3969Coder/ced-halaltech/blob/main/CONTRIBUTING.md) et notre [Politique de Sécurité](https://github.com/onelineoneline3969Coder/ced-halaltech/blob/main/SECURITY.md).
+
+### 🔒 Licence
+Ce projet est soumis à une **Licence Propriétaire**. Voir [LICENSE](https://github.com/onelineoneline3969Coder/ced-halaltech/blob/main/LICENSE) pour les détails.
