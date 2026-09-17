@@ -1,3 +1,9 @@
+<div align="center">
+
+![Incubé par EuriaHub-CED](https://img.shields.io/badge/Incubé_par-EuriaHub--CED-F5F5DC?style=for-the-badge&logo=github&logoColor=333)
+*Un projet de l'écosystème CED HalalTech™ | 🏳️ Charte Éthique & Souveraine*
+
+</div>
 # 🌍 CED HalalTech™ — Écosystème Fintech Islamique Souverain
 
 > **100% Halal | 100% Suisse | AAOIFI Compliant | LPD/RGPD**
@@ -14,6 +20,21 @@ La première architecture technologique mondiale conciliant **conformité Charia
 ---
 
 ## 🕌 Vision & Fondements
+---
+
+## 🎨 Alignement Charte EuriaHub-CED
+
+Ce projet est incubé selon les standards visuels et éthiques d'**EuriaHub-CED**. Chaque module respecte le code couleur souverain :
+
+| Pôle | Couleur | Module CED HalalTech™ | Statut d'Alignement |
+| :--- | :---: | :--- | :--- |
+| 🏦 **Infra** | 🟦 **Bleu Marine** | Cloud Halal™ (Infomaniak), CED Core Banking | ✅ **Conforme** |
+| 🤖 **IA & R&D** | 🟪 **Violet** | Super IARP Pro, Algorithmes de Fiqh | ✅ **Conforme** |
+| 🌿 **Écologie** | 🟢 **Vert Pistache** | Green Coding Engine, Optimisation Carbone | ✅ **Conforme** |
+| 🤝 **Incubation** | 🟧 **Orange** | CED Academy™, Programmes de Mentorat | ✅ **Conforme** |
+| 🏳️ **Éthique** | 🏳️ **Beige** | Compliance Charia, Audit FINMA, Gouvernance | ✅ **Conforme** |
+
+> *"L'harmonie visuelle reflète l'harmonie éthique."* – Tout le code, la documentation et les interfaces de ce dépôt respectent strictement cette charte.
 ## 🌟 Preuve de Concept & Impact Mondial
 
 Notre version bêta a démontré la viabilité du modèle CED HalalTech à l'échelle internationale :
